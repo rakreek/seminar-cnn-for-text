@@ -1,0 +1,154 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="max_pool">
+   <line stroke="#000000" id="svg_20" y2="236" x2="341" y1="179.999999" x1="456" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line stroke="#000000" id="svg_17" y2="239.000003" x2="454" y1="178" x1="401" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line stroke="#000000" id="svg_18" y2="266" x2="454" y1="289.999999" x1="402" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line id="svg_19" y2="155" x2="453" y1="126" x1="339" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  </g>
+  <g id="svg_23"/>
+  <g id="embedding">
+   <g stroke="null" id="e1">
+    <rect stroke="#000000" fill="#676767" stroke-width="2" x="115" y="106" width="28" height="28" id="e11"/>
+    <rect stroke="#000000" fill="#a8a8a8" stroke-width="2" x="143" y="106" width="28" height="28" id="e12"/>
+    <rect stroke="#000000" fill="#939393" stroke-width="2" x="171" y="106" width="28" height="28" id="e13"/>
+    <rect stroke="#000000" fill="#363636" stroke-width="2" x="199" y="106" width="28" height="28" id="e14"/>
+    <rect stroke="#000000" fill="#f7f7f7" stroke-width="2" x="227" y="106" width="28" height="28" id="e15"/>
+   </g>
+   <g id="e2">
+    <rect fill="#010101" stroke="#000000" stroke-width="2" x="115" y="134" width="28" height="28" id="e21"/>
+    <rect fill="#4c4c4c" stroke="#000000" stroke-width="2" x="143" y="134" width="28" height="28" id="e22"/>
+    <rect fill="#222222" stroke="#000000" stroke-width="2" x="171" y="134" width="28" height="28" id="e23"/>
+    <rect fill="#4c4c4c" stroke="#000000" stroke-width="2" x="199" y="134" width="28" height="28" id="e24"/>
+    <rect fill="#666666" stroke="#000000" stroke-width="2" x="227" y="134" width="28" height="28" id="e25"/>
+   </g>
+   <g id="e3">
+    <rect fill="#1a1a1a" stroke="#000000" stroke-width="2" x="115" y="162" width="28" height="28" id="e31"/>
+    <rect fill="#606060" stroke="#000000" stroke-width="2" x="143" y="162" width="28" height="28" id="e32"/>
+    <rect fill="#818181" stroke="#000000" stroke-width="2" x="171" y="162" width="28" height="28" id="e33"/>
+    <rect fill="#c3c3c3" stroke="#000000" stroke-width="2" x="199" y="162" width="28" height="28" id="e34"/>
+    <rect fill="#303030" stroke="#000000" stroke-width="2" x="227" y="162" width="28" height="28" id="e35"/>
+   </g>
+   <g id="e4">
+    <rect fill="#c4c4c4" stroke="#000000" stroke-width="2" x="115" y="190" width="28" height="28" id="e41"/>
+    <rect fill="#bfbfbf" stroke="#000000" stroke-width="2" x="143" y="190" width="28" height="28" id="e42"/>
+    <rect fill="#1e1e1e" stroke="#000000" stroke-width="2" x="171" y="190" width="28" height="28" id="e43"/>
+    <rect fill="#090909" stroke="#000000" stroke-width="2" x="199" y="190" width="28" height="28" id="e44"/>
+    <rect fill="#f9f9f9" stroke="#000000" stroke-width="2" x="227" y="190" width="28" height="28" id="e45"/>
+   </g>
+   <g id="se5">
+    <rect fill="#ebebeb" stroke="#000000" stroke-width="2" x="115" y="218" width="28" height="28" id="e51"/>
+    <rect fill="#787878" stroke="#000000" stroke-width="2" x="143" y="218" width="28" height="28" id="e52"/>
+    <rect fill="#323232" stroke="#000000" stroke-width="2" x="171" y="218" width="28" height="28" id="e53"/>
+    <rect fill="#fafafa" stroke="#000000" stroke-width="2" x="199" y="218" width="28" height="28" id="e54"/>
+    <rect fill="#3e3e3e" stroke="#000000" stroke-width="2" x="227" y="218" width="28" height="28" id="e55"/>
+   </g>
+   <g id="e6">
+    <rect fill="#373737" stroke="#000000" stroke-width="2" x="115" y="246" width="28" height="28" id="e61"/>
+    <rect fill="#7f7f7f" stroke="#000000" stroke-width="2" x="143" y="246" width="28" height="28" id="e62"/>
+    <rect fill="#868686" stroke="#000000" stroke-width="2" x="171" y="246" width="28" height="28" id="e63"/>
+    <rect fill="#303030" stroke="#000000" stroke-width="2" x="199" y="246" width="28" height="28" id="e64"/>
+    <rect fill="#1c1c1c" stroke="#000000" stroke-width="2" x="227" y="246" width="28" height="28" id="e65"/>
+   </g>
+   <g id="e7">
+    <rect fill="#5d5d5d" stroke="#000000" stroke-width="2" x="115" y="274" width="28" height="28" id="e71"/>
+    <rect fill="#9f9f9f" stroke="#000000" stroke-width="2" x="143" y="274" width="28" height="28" id="e72"/>
+    <rect fill="#070707" stroke="#000000" stroke-width="2" x="171" y="274" width="28" height="28" id="e73"/>
+    <rect fill="#555555" stroke="#000000" stroke-width="2" x="199" y="274" width="28" height="28" id="e74"/>
+    <rect fill="#010101" stroke="#000000" stroke-width="2" x="227" y="274" width="28" height="28" id="e75"/>
+   </g>
+  </g>
+  <rect fill="#515151" stroke="#000000" stroke-width="2" x="600" y="201" width="28" height="28" id="sigmoid_output"/>
+  <g id="max_pool_layer">
+   <rect fill="#ffc802" stroke="#000000" stroke-width="2" x="453" y="155" width="28" height="28" id="m1"/>
+   <rect fill="#9d00ff" stroke="#000000" stroke-width="2" x="453" y="183" width="28" height="28" id="m2"/>
+   <rect fill="#66ff66" stroke="#000000" stroke-width="2" x="453" y="211" width="28" height="28" id="m3"/>
+   <rect fill="#006eff" stroke="#000000" stroke-width="2" x="453" y="239" width="28" height="28" id="m4"/>
+  </g>
+  <g id="dense_layer">
+   <rect fill="#3d3d3d" stroke="#000000" stroke-width="2" x="529" y="155" width="28" height="28" id="d1"/>
+   <rect fill="#f4f4f4" stroke="#000000" stroke-width="2" x="529" y="183" width="28" height="28" id="d2"/>
+   <rect fill="#b7b7b7" stroke="#000000" stroke-width="2" x="529" y="211" width="28" height="28" id="d3"/>
+   <rect fill="#8a8a8a" stroke="#000000" stroke-width="2" x="529" y="239" width="28" height="28" id="d4"/>
+  </g>
+  <g id="embed_label">
+   <path stroke="#000000" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m258.498169,328.760223c0,5.748596 -0.881622,10.407776 -1.975891,10.407776l-68.633545,0c-1.094284,0 -1.975922,4.65918 -1.975922,10.407745l0,0c0,-5.748566 -0.886047,-10.407745 -1.975891,-10.407745l-68.633568,0l0,0c-1.094284,0 -1.975891,-4.65918 -1.975891,-10.407776" id="svg_12"/>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="189" y="375" id="svg_4" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">embedding</text>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="184" y="402" id="svg_6" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">layer</text>
+  </g>
+  <g id="conv_label">
+   <path stroke="#000000" id="svg_1" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m405.085358,327.592224c0,5.748627 -0.590118,10.407806 -1.322571,10.407806l-45.940186,0c-0.732452,0 -1.322601,4.65918 -1.322601,10.407745l0,0c0,-5.748566 -0.593079,-10.407745 -1.322571,-10.407745l-45.940216,0l0,0c-0.732483,0 -1.322571,-4.65918 -1.322571,-10.407806"/>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="357" y="371" id="svg_7" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">conv.</text>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="355" y="396" id="svg_8" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">layer</text>
+  </g>
+  <g id="max_pool_label">
+   <path stroke="#000000" id="svg_2" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m485.085388,326.592224c0,5.748627 -0.177155,10.407806 -0.397064,10.407806l-13.79126,0c-0.219879,0 -0.397064,4.65918 -0.397064,10.407745l0,0c0,-5.748566 -0.17804,-10.407745 -0.397034,-10.407745l-13.79129,0l0,0c-0.219879,0 -0.397034,-4.65918 -0.397034,-10.407806"/>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="471" y="412" id="svg_9" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="rotate(-90 471 403.773)">max pool</text>
+  </g>
+  <g id="dense_label">
+   <path stroke="#000000" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m561.085388,326.592224c0,5.748627 -0.177185,10.407806 -0.397095,10.407806l-13.79126,0c-0.219849,0 -0.397034,4.65918 -0.397034,10.407745l0,0c0,-5.748566 -0.17804,-10.407745 -0.397095,-10.407745l-13.79126,0l0,0c-0.219849,0 -0.397034,-4.65918 -0.397034,-10.407806" id="svg_3"/>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="545" y="401" id="svg_10" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="rotate(-90 545 392.773)">dense</text>
+  </g>
+  <g id="output_label">
+   <path stroke="#000000" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m631.085388,325.592224c0,5.748627 -0.177185,10.407806 -0.397095,10.407806l-13.79126,0c-0.219849,0 -0.397034,4.65918 -0.397034,10.407745l0,0c0,-5.748566 -0.17804,-10.407745 -0.397095,-10.407745l-13.79126,0l0,0c-0.219849,0 -0.397034,-4.65918 -0.397034,-10.407806" id="svg_5"/>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="616" y="399" id="svg_11" font-size="24" font-family="Sans-serif" text-anchor="middle" xml:space="preserve" transform="rotate(-90 616 390.773)">output</text>
+  </g>
+  <g id="tokens">
+   <text stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t1" y="127" x="57" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">movie</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t2" y="155" x="55" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">could</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t3" y="183" x="55" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">have</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t4" y="211" x="54" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">been</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t5" y="239" x="54" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">an</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t6" y="267" x="53" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">impressing</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="20" id="t7" y="295" x="54" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">epic</text>
+  </g>
+  <g id="dense_weights">
+   <line id="svg_21" y2="268" x2="530" y1="155" x1="480" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+   <line stroke="#000000" id="svg_22" y2="267" x2="482" y1="156.000001" x1="529.000002" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line stroke="#000000" id="svg_24" y2="267" x2="529" y1="267" x1="481" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line id="svg_25" y2="155" x2="529" y1="155" x1="481" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  </g>
+  <g id="output_weights">
+   <line id="svg_26" y2="202" x2="600" y1="154" x1="558" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+   <line id="svg_27" y2="227" x2="601" y1="268" x1="557" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="none"/>
+  </g>
+  <g id="conv_weights1">
+   <rect stroke="#ffc700" id="svg_29" height="112" width="140.000005" y="106" x="115" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line id="svg_13" y2="126" x2="311" y1="106" x1="255" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#ffc700" fill="none"/>
+   <line id="svg_14" y2="153" x2="311" y1="219" x1="255" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#ffc700" fill="none"/>
+  </g>
+  <g id="conv_layer">
+   <g id="filter1">
+    <rect fill="#ffd944" stroke="#000000" stroke-width="2" x="310" y="125" width="28" height="28" id="f11"/>
+    <rect fill="#ffce21" stroke="#000000" stroke-width="2" x="310" y="153" width="28" height="28" id="f12"/>
+    <rect fill="#ffc802" stroke-width="2" x="310" y="181" width="28" height="28" id="f13" stroke="#000000"/>
+    <rect fill="#ffecaa" stroke="#000000" stroke-width="2" x="310" y="209" width="28" height="28" id="f14"/>
+   </g>
+   <g id="filter2">
+    <rect fill="#e2bbf9" stroke="#000000" stroke-width="2" x="331" y="138" width="28" height="28" id="f21"/>
+    <rect fill="#cb7fff" stroke="#000000" stroke-width="2" x="331" y="166" width="28" height="28" id="f22"/>
+    <rect fill="#b83fff" stroke-width="2" x="331" y="194" width="28" height="28" id="f23" stroke="#000000"/>
+    <rect fill="#9d00ff" stroke="#000000" stroke-width="2" x="331" y="222" width="28" height="28" id="f24"/>
+   </g>
+   <g id="filter3">
+    <rect fill="#ccffcc" stroke="#000000" stroke-width="2" x="352" y="242" width="28" height="28" id="f34"/>
+    <rect fill="#aaffaa" stroke="#000000" stroke-width="2" x="352" y="158" width="28" height="28" id="f31"/>
+    <rect fill="#21ff21" stroke="#000000" stroke-width="2" x="352" y="186" width="28" height="28" id="f32"/>
+    <rect fill="#66ff66" stroke="#000000" stroke-width="2" x="352" y="214" width="28" height="28" id="f33"/>
+   </g>
+   <g id="filter4">
+    <rect fill="#d8e9ff" stroke="#000000" stroke-width="2" x="373" y="234" width="28" height="28" id="f43"/>
+    <rect fill="#7fbfff" stroke="#000000" stroke-width="2" x="373" y="178" width="28" height="28" id="f41"/>
+    <rect fill="#569fff" stroke="#000000" stroke-width="2" x="373" y="206" width="28" height="28" id="f42"/>
+    <rect fill="#006eff" stroke="#000000" stroke-width="2" x="373" y="262" width="28" height="28" id="f44"/>
+   </g>
+  </g>
+  <g id="conv_weights4">
+   <rect stroke="#006eff" id="svg_28" height="111.999999" width="140" y="162.000001" x="115" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line id="svg_15" y2="262" x2="374" y1="274" x1="256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#006eff" fill="none"/>
+   <line id="svg_16" y2="233" x2="373" y1="163" x1="254" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#006eff" fill="none"/>
+  </g>
+ </g>
+</svg>

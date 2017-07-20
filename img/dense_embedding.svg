@@ -1,0 +1,44 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_14" d="m318.704498,124.923889c0,-7.890717 0.834076,-14.286072 1.864685,-14.286072l64.77066,0c1.030609,0 1.864685,-6.395325 1.864685,-14.286011l0,0c0,7.890686 0.834076,14.286011 1.862579,14.286011l64.772736,0l0,0c1.030609,0 1.864685,6.395355 1.864685,14.286072" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none" stroke="#000000"/>
+  <text font-style="normal" style="cursor: move;" fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="392" y="90" id="svg_15" font-size="28" font-family="Sans-serif" text-anchor="middle" xml:space="preserve">d &lt;&lt; |V|</text>
+  <g id="tokens">
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="28" id="t1" y="154" x="243" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">excellent</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="28" id="t2" y="203" x="244" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">sharp</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="28" id="t3" y="263" x="241" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">witty</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="28" id="t4" y="320" x="237" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">comedy</text>
+  </g>
+  <g id="embeddings" stroke="null">
+   <g id="e1" stroke="null">
+    <rect fill="#dedede" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="317" y="133" width="28" height="28" id="e11" stroke="#000000"/>
+    <rect fill="#d5d5d5" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="345" y="133" width="28" height="28" id="e12" stroke="#000000"/>
+    <rect id="e13" fill="#343434" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="373" y="133" width="28" height="28" stroke="#000000"/>
+    <rect id="e14" fill="#3d3d3d" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="401" y="133" width="28" height="28" stroke="#000000"/>
+    <rect id="e15" fill="#f4f4f4" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="429" y="133" width="28" height="28" stroke="#000000"/>
+   </g>
+   <g id="e2" stroke="null">
+    <rect id="e21" fill="#353535" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="317" y="185.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e22" fill="#171717" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="345" y="185.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e23" fill="#6c6c6c" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="373" y="185.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e24" fill="#3a3a3a" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="401" y="185.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e25" fill="#919191" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="429" y="185.734375" width="28" height="28" stroke="#000000"/>
+   </g>
+   <g id="e3" stroke="null">
+    <rect id="e31" fill="#2d2d2d" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="317" y="241.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e32" fill="#7f7f7f" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="345" y="241.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e33" fill="#c4c4c4" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="373" y="241.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e34" fill="#bababa" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="401" y="241.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e35" fill="#7d7d7d" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="429" y="241.734375" width="28" height="28" stroke="#000000"/>
+   </g>
+   <g id="e4" stroke="null">
+    <rect id="e41" fill="#a2a2a2" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="317" y="301.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e42" fill="#d3d3d3" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="345" y="301.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e43" fill="#787878" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="373" y="301.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e44" fill="#e0e0e0" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="401" y="301.734375" width="28" height="28" stroke="#000000"/>
+    <rect id="e45" fill="#d6d6d6" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="429" y="301.734375" width="28" height="28" stroke="#000000"/>
+   </g>
+  </g>
+ </g>
+</svg>

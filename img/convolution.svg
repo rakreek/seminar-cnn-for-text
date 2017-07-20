@@ -1,0 +1,88 @@
+<svg width="450" height="280" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <marker id="se_marker_end_svg_25" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path id="svg_2" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke-width="10" stroke="#000000"/>
+  </marker>
+  <marker id="se_marker_end_svg_37" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path id="svg_3" d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke-width="10" stroke="#000000"/>
+  </marker>
+ </defs>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <g id="convolutions" stroke="null">
+   <rect id="c1" height="28" width="28" y="42" x="116" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#f2fffb" stroke="#aaaaaa"/>
+   <rect id="c2" height="28" width="28" y="42" x="144" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ccffee" stroke="#aaaaaa"/>
+   <rect id="c3" height="28" width="28" y="42" x="172" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#e5fff6" stroke="#aaaaaa"/>
+   <rect id="c5" height="28" width="28" y="42" x="228" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#f2fffb" stroke="#aaaaaa"/>
+   <rect id="c6" height="28" width="28" y="42" x="256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ccffee" stroke="#aaaaaa"/>
+   <rect id="c7" height="28" width="28" y="42" x="284" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#e5fff6" stroke="#aaaaaa"/>
+   <rect id="c8" height="28" width="28" y="42" x="312" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#f2fffb" stroke="#aaaaaa"/>
+   <rect id="c9" height="28" width="28" y="42" x="340" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#d8fff2" stroke="#aaaaaa"/>
+   <rect id="c4" height="28" width="28" y="42" x="200" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#1cdba8" stroke="#000000"/>
+  </g>
+  <g id="sequence" stroke="null">
+   <rect id="s1" height="28" width="28" y="177" x="76.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#fcfcfc" stroke="#aaaaaa"/>
+   <rect id="s2" height="28" width="28" y="177" x="104.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#e8e8e8" stroke="#aaaaaa"/>
+   <rect id="s3" height="28" width="28" y="177" x="132.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#f4f4f4" stroke="#aaaaaa"/>
+   <rect id="s4" height="28" width="28" y="177" x="160.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#a7a7a7" stroke="#000000"/>
+   <rect id="s5" height="28" width="28" y="177" x="188.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#414141" stroke="#000000"/>
+   <rect id="s6" height="28" width="28" y="177" x="216.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#808080" stroke="#000000"/>
+   <rect id="s8" height="28" width="28" y="177" x="272.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#fefefe" stroke="#aaaaaa"/>
+   <rect id="s9" height="28" width="28" y="177" x="300.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#e9e9e9" stroke="#aaaaaa"/>
+   <rect id="s10" height="28" width="28" y="177" x="328.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#e8e8e8" stroke="#aaaaaa"/>
+   <rect id="s11" height="28" width="28" y="177" x="356.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#f4f4f4" stroke="#aaaaaa"/>
+   <rect id="s12" height="28" width="28" y="177" x="384.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#e5e5e5" stroke="#aaaaaa"/>
+   <rect id="s7" height="28" width="28" y="177" x="244.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#191919" stroke="#000000"/>
+  </g>
+  <line fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="66.999994" y1="232" x2="415" y2="232" id="svg_25" marker-end="url(#se_marker_end_svg_25)" stroke="#000000"/>
+  <g id="conv_unit" stroke="null">
+   <g id="add_op" stroke="null">
+    <ellipse ry="10" rx="10" id="svg_1" cy="101" cx="214" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none" stroke="#000000"/>
+    <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="28" id="svg_4" y="108" x="214" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" stroke="#000000">+</text>
+   </g>
+   <g id="weights" stroke="null">
+    <rect id="w1" height="28" width="28" y="127" x="159" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#00bf8c" stroke="#000000"/>
+    <rect id="w2" height="28" width="28" y="127" x="187" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#3fffcc" stroke="#000000"/>
+    <rect id="w3" height="28" width="28" y="127" x="215" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#bfffee" stroke="#000000"/>
+    <rect id="w4" height="28" width="28" y="127" x="243" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#1cddaa" stroke="#000000"/>
+   </g>
+   <line fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="172" y1="127" x2="214" y2="111" id="svg_26" stroke="#000000"/>
+   <line fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="255.999998" y1="127.000001" x2="213" y2="111" id="svg_27" stroke="#000000"/>
+   <line fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="214" y1="91" x2="214" y2="74" id="svg_37" marker-end="url(#se_marker_end_svg_37)" stroke="#000000"/>
+   <line fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="202" y1="127" x2="214" y2="111" id="svg_38" stroke="#000000"/>
+   <line fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="227" y1="127" x2="214" y2="111" id="svg_39" stroke="#000000"/>
+   <g id="times_op" stroke="null">
+    <g id="times_op1" stroke="null">
+     <line id="svg_5" y2="176" x2="173" y1="155" x1="173" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none" stroke="#000000"/>
+     <ellipse fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="173" cy="166" id="svg_17" rx="7" ry="7" stroke="#000000"/>
+     <ellipse fill="#000000" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="173" cy="166" id="svg_18" rx="2" ry="2" stroke="#000000"/>
+    </g>
+    <g id="times_op2" stroke="null">
+     <line id="svg_8" y2="176.5" x2="256" y1="155.5" x1="256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none" stroke="#000000"/>
+     <ellipse fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="256" cy="166" rx="7" ry="7" id="svg_31" stroke="#000000"/>
+     <ellipse fill="#000000" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="256" cy="166" rx="2" ry="2" id="svg_32" stroke="#000000"/>
+    </g>
+    <g id="times_op3" stroke="null">
+     <line id="svg_6" y2="176.5" x2="202" y1="155.5" x1="202" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none" stroke="#000000"/>
+     <ellipse fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="202" cy="166" rx="7" ry="7" id="svg_19" stroke="#000000"/>
+     <ellipse fill="#000000" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="202" cy="166" rx="2" ry="2" id="svg_20" stroke="#000000"/>
+    </g>
+    <g id="times_op4" stroke="null">
+     <line id="svg_7" y2="176.5" x2="230" y1="155.5" x1="230" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none" stroke="#000000"/>
+     <ellipse fill="#ffffff" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="230" cy="166" rx="7" ry="7" id="svg_28" stroke="#000000"/>
+     <ellipse fill="#000000" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="230" cy="166" rx="2" ry="2" id="svg_29" stroke="#000000"/>
+    </g>
+   </g>
+  </g>
+  <path fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m103.723785,76.161514c-3.037872,0 -5.501007,-0.261047 -5.501007,-0.583649l0,-20.270432c0,-0.321945 -2.462143,-0.582993 -5.498993,-0.582993l0,0c3.03685,0 5.498993,-0.261688 5.498993,-0.583511l0,-20.269913l0,0c0,-0.322464 2.463135,-0.583511 5.501007,-0.583511" id="svg_9" stroke="#000000"/>
+  <path fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m68,211.437012c-3.037872,0 -5.501007,-0.261047 -5.501007,-0.583649l0,-20.270447c0,-0.32193 -2.462128,-0.582977 -5.498993,-0.582977l0,0c3.036865,0 5.498993,-0.261688 5.498993,-0.583496l0,-20.269958l0,0c0,-0.322449 2.463135,-0.583496 5.501007,-0.583496" stroke="#000000" id="svg_10"/>
+  <path fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m289,162.437012c-3.037872,0 -5.501007,-0.261047 -5.501007,-0.583649l0,-20.270447c0,-0.321945 -2.462128,-0.582977 -5.498993,-0.582977l0,0c3.036865,0 5.498993,-0.261688 5.498993,-0.583511l0,-20.269928l0,0c0,-0.322464 2.463135,-0.583511 5.501007,-0.583511" stroke="#000000" id="svg_11" transform="rotate(-178.409 283.5 141)"/>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="48" y="198" id="seq_dim" font-size="28" font-family="Serif" text-anchor="middle" xml:space="preserve" font-style="italic" transform="matrix(1 0 0 1 -1 1)" stroke="#000000">l</text>
+  <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="300" y="150" id="weight_dim" font-size="28" font-family="Serif" text-anchor="middle" xml:space="preserve" font-style="italic">k</text>
+  <g id="conv_dim">
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="52" y="64" id="svg_14" font-size="28" font-family="Serif" text-anchor="middle" xml:space="preserve" font-style="italic">l-k+</text>
+   <text fill="#000000" stroke="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="82" y="64" id="svg_15" font-size="28" font-family="Serif" text-anchor="middle" xml:space="preserve">1</text>
+  </g>
+ </g>
+</svg>
